@@ -1,0 +1,813 @@
+{
+  "title": "The history of stop-motion animation",
+  "tagline": "130 years of moving things a little and taking a photo: from wooden circus toys and beetles to 3D-printed faces and wool.",
+  "intro": "Stop-motion began as a camera trick: stop cranking, move something, start again. Pioneers used it for toys, insects, matchsticks and dinosaurs. Clay studios made it warm and funny, and LAIKA added 3D printing, but the core is still the same: one photo, one tiny move, again and again.",
+  "eras": [
+    {
+      "id": "pioneers",
+      "name": "Tricks and pioneers",
+      "from": 1897,
+      "to": 1932,
+      "color": "#c49bff",
+      "summary": "Film-makers find that a stopped camera can make objects move by themselves. Toys, dead beetles, matchsticks, paper silhouettes and model dinosaurs come to life."
+    },
+    {
+      "id": "creatures",
+      "name": "Monsters, puppets and clay",
+      "from": 1933,
+      "to": 1971,
+      "color": "#ffb547",
+      "summary": "King Kong shows what stop-motion can do in a feature. Harryhausen mixes puppets with live actors, Czech and Soviet artists make puppet films, and clay and pixilation arrive."
+    },
+    {
+      "id": "studios",
+      "name": "Clay studios and features",
+      "from": 1972,
+      "to": 2004,
+      "color": "#ff7a59",
+      "summary": "Aardman in Bristol turns plasticine into comedy and wins Oscars. Hollywood backs stop-motion features like The Nightmare Before Christmas and Chicken Run."
+    },
+    {
+      "id": "printed",
+      "name": "Printed faces and digital cameras",
+      "from": 2005,
+      "to": 2026,
+      "color": "#8ec5ff",
+      "summary": "Digital stills cameras and frame-grab software replace film. LAIKA 3D-prints tens of thousands of faces, and Indian studios win awards with new materials like wool."
+    }
+  ],
+  "events": [
+    {
+      "year": 1898,
+      "date": "c. 1897–98 (claimed)",
+      "era": "pioneers",
+      "art": "puppet",
+      "key": true,
+      "title": "Toy acrobats in The Humpty Dumpty Circus",
+      "who": "J. Stuart Blackton and Albert E. Smith (attributed)",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "Albert E. Smith later wrote that he and Blackton animated his daughter's jointed wooden circus toys, moving them a little between exposures. The film is lost. Smith dated it to about 1897 or 1898, but a film of that name was reviewed in 1908, so historians are not sure when it was made.",
+      "why": "It is often named as the first stop-motion film, though the date is uncertain.",
+      "box": "frames",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "1910",
+      "era": "pioneers",
+      "art": "puppet",
+      "key": true,
+      "title": "Stag beetles that fight",
+      "who": "Ladislas Starewicz",
+      "where": "Kaunas, Lithuania (then Russian Empire)",
+      "country": "Lithuania",
+      "text": "Starewicz, a museum director and insect collector, wired the legs of dead stag beetles and moved them frame by frame to film them fighting. The short is called Lucanus Cervus.",
+      "why": "It is one of the earliest surviving puppet animations, made with real insects as puppets.",
+      "box": "armature",
+      "sources": [
+        2,
+        0
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "1912",
+      "era": "pioneers",
+      "art": "filmreel",
+      "title": "The Cameraman's Revenge",
+      "who": "Ladislas Starewicz",
+      "where": "Moscow, Russia",
+      "country": "Russia",
+      "text": "In this 12-minute comedy, insect puppets act out a story of jealousy, complete with a cinema inside the film. The puppets had jointed bodies so they could hold poses.",
+      "why": "It showed that puppets could act and tell a story, not just move.",
+      "box": "armature",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 1915,
+      "date": "1915",
+      "era": "pioneers",
+      "art": "clapper",
+      "key": true,
+      "title": "Dancing matchsticks in India",
+      "who": "Dadasaheb Phalke",
+      "where": "Nashik, India",
+      "country": "India",
+      "text": "Phalke, who made India's first feature film in 1913, made a short object-animation film of matchsticks, Agkadyanchi Mouj. He had earlier filmed a pea plant growing at one frame a day.",
+      "why": "It is counted as India's first stop-motion film.",
+      "box": "kinds",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1915,
+      "date": "1915",
+      "era": "pioneers",
+      "art": "puppet",
+      "title": "Clay and wire dinosaurs",
+      "who": "Willis O'Brien",
+      "where": "San Francisco, USA",
+      "country": "USA",
+      "text": "O'Brien animated clay-covered models of a dinosaur and an ape-man in The Dinosaur and the Missing Link. It was a short comedy that started his career in animated creatures.",
+      "why": "It began the line of stop-motion monsters that led to King Kong.",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925",
+      "era": "pioneers",
+      "art": "film",
+      "key": true,
+      "title": "Dinosaurs meet live actors in The Lost World",
+      "who": "Willis O'Brien, with models by Marcel Delgado",
+      "where": "Hollywood, USA",
+      "country": "USA",
+      "text": "The feature film of Arthur Conan Doyle's novel mixed stop-motion dinosaurs with live actors. The models had metal armatures under rubber skins.",
+      "why": "Audiences saw believable animated creatures in a big feature for the first time.",
+      "box": "armature",
+      "sources": [
+        6,
+        5
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "1926",
+      "era": "pioneers",
+      "art": "scissors",
+      "key": true,
+      "title": "A feature cut from paper",
+      "who": "Lotte Reiniger",
+      "where": "Berlin, Germany",
+      "country": "Germany",
+      "text": "Reiniger animated black paper silhouettes with hinged joints, frame by frame on a lit table, for The Adventures of Prince Achmed. It took about three years.",
+      "why": "It is the oldest surviving animated feature film, and it made cut-out animation an art.",
+      "box": "kinds",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "Finished 1930, released 1937",
+      "era": "pioneers",
+      "art": "puppet",
+      "title": "The first puppet feature",
+      "who": "Ladislas and Irène Starewicz",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "The Tale of the Fox was finished in 1930 but waited years for a soundtrack. It was released in Germany in 1937 and with French sound in 1941.",
+      "why": "It is often named as the first feature-length puppet film.",
+      "sources": [
+        8,
+        0
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "1933",
+      "era": "creatures",
+      "art": "cinema",
+      "key": true,
+      "title": "King Kong",
+      "who": "Willis O'Brien and team",
+      "where": "Hollywood, USA",
+      "country": "USA",
+      "text": "Kong was a small puppet with a metal armature and rabbit fur, animated a frame at a time and combined with live actors using rear projection and other tricks.",
+      "why": "It is widely regarded as a milestone of stop-motion, and it inspired a generation of animators.",
+      "box": "armature",
+      "sources": [
+        9,
+        0
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "creatures",
+      "art": "puppet",
+      "title": "Hundreds of puppets in The New Gulliver",
+      "who": "Aleksandr Ptushko",
+      "where": "Moscow, USSR",
+      "country": "Russia",
+      "text": "Ptushko's feature put a live boy among a whole city of puppet Lilliputians. Puppet animation runs through almost the whole film.",
+      "why": "It showed that puppets could fill a feature, not just a scene.",
+      "sources": [
+        10,
+        0
+      ]
+    },
+    {
+      "year": 1947,
+      "date": "1947",
+      "era": "creatures",
+      "art": "puppet",
+      "title": "Czech puppet films",
+      "who": "Jiří Trnka",
+      "where": "Prague, Czechoslovakia",
+      "country": "Czech Republic",
+      "text": "Trnka's feature The Czech Year used carved wooden puppets with fixed faces. Their feelings came from lighting, camera angles and body poses.",
+      "why": "Prague became a world centre of puppet film, and it later trained animators from other countries, India among them.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "1952",
+      "era": "creatures",
+      "art": "person",
+      "title": "Pixilation: Neighbours",
+      "who": "Norman McLaren",
+      "where": "Montreal, Canada",
+      "country": "Canada",
+      "text": "McLaren animated two real actors frame by frame, so they glide and float as they fight over a flower. The film won an Academy Award in 1953.",
+      "why": "It made pixilation, stop-motion with people, famous.",
+      "box": "kinds",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "1953",
+      "era": "creatures",
+      "art": "greenscreen",
+      "key": true,
+      "title": "Harryhausen's split-screen monsters",
+      "who": "Ray Harryhausen",
+      "where": "Los Angeles, USA",
+      "country": "USA",
+      "text": "For The Beast from 20,000 Fathoms, Harryhausen animated his creature in front of projected live-action footage, then added a foreground layer on top. The method was later sold as Dynamation, a name used from The 7th Voyage of Sinbad (1958).",
+      "why": "It let puppets and actors share the same shot cheaply, long before computer effects.",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "1955",
+      "era": "creatures",
+      "art": "palette",
+      "title": "Gumby, the clay boy",
+      "who": "Art Clokey",
+      "where": "Los Angeles, USA",
+      "country": "USA",
+      "text": "Clokey's experiments with moving clay, Gumbasia, led to Gumby, a green clay figure who starred on American television for decades.",
+      "why": "It made clay animation familiar to millions of children.",
+      "sources": [
+        15,
+        0
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "era": "creatures",
+      "art": "clapper",
+      "title": "Seven skeletons fight three actors",
+      "who": "Ray Harryhausen",
+      "where": "London, UK",
+      "country": "UK",
+      "text": "The skeleton battle in Jason and the Argonauts lasts a few minutes on screen but took over four months to animate, matching every sword blow to the actors.",
+      "why": "It became one of the most famous stop-motion scenes ever made.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1960s",
+      "era": "creatures",
+      "art": "person",
+      "title": "India's experimental animator",
+      "who": "Pramod Pati, Films Division",
+      "where": "Bombay (Mumbai), India",
+      "country": "India",
+      "text": "Pati studied puppet animation under Jiří Trnka in Prague and became head of animation at Films Division. His experimental short films of the late 1960s, such as Explorer (1968), mixed live action with techniques like pixilation.",
+      "why": "He brought European puppet and stop-motion ideas into Indian government film-making.",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "1969",
+      "era": "creatures",
+      "art": "palette",
+      "title": "Sand on glass",
+      "who": "Caroline Leaf",
+      "where": "Cambridge, Massachusetts, USA",
+      "country": "USA",
+      "text": "As a student, Leaf pushed beach sand around on a lit sheet of glass to make Sand, or Peter and the Wolf, photographing each change from above.",
+      "why": "It showed that stop-motion could be as fluid as painting.",
+      "box": "kinds",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "1972",
+      "era": "studios",
+      "art": "studio",
+      "title": "Aardman is founded",
+      "who": "Peter Lord and David Sproxton",
+      "where": "Bristol, UK",
+      "country": "UK",
+      "text": "Two school friends started making animation for children's television, and their plasticine characters grew into a studio.",
+      "why": "Aardman became the world's best-known clay animation studio.",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "1989",
+      "era": "studios",
+      "art": "puppet",
+      "key": true,
+      "title": "Wallace, Gromit and talking zoo animals",
+      "who": "Nick Park, Aardman",
+      "where": "Bristol, UK",
+      "country": "UK",
+      "text": "Park finished A Grand Day Out, the first Wallace & Gromit film, which he had started as a student. His Creature Comforts, with clay animals voiced by real people, won the Academy Award for animated short in 1991.",
+      "why": "Clay animation became a comedy style loved around the world.",
+      "box": "faces",
+      "sources": [
+        19,
+        20,
+        18
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993",
+      "era": "studios",
+      "art": "puppet",
+      "key": true,
+      "title": "The Nightmare Before Christmas",
+      "who": "Henry Selick, produced by Tim Burton",
+      "where": "San Francisco, USA",
+      "country": "USA",
+      "text": "A full stop-motion musical feature released by a Disney label. The hero's face was changed with replacement heads, reported as about 400 of them.",
+      "why": "It proved that a stop-motion feature could be a Hollywood hit.",
+      "box": "faces",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000",
+      "era": "studios",
+      "art": "film",
+      "title": "Chicken Run",
+      "who": "Peter Lord and Nick Park, Aardman",
+      "where": "Bristol, UK",
+      "country": "UK",
+      "text": "Aardman's first feature film told of chickens escaping a farm, all in plasticine over armatures.",
+      "why": "It became the highest-grossing stop-motion film.",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "March 2006",
+      "era": "printed",
+      "art": "trophy",
+      "title": "A clay feature wins the Oscar",
+      "who": "Nick Park and Steve Box, Aardman",
+      "where": "Los Angeles, USA",
+      "country": "UK",
+      "text": "Wallace & Gromit: The Curse of the Were-Rabbit (2005) won the Academy Award for best animated feature.",
+      "why": "It was the first stop-motion film to win that award.",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "printed",
+      "art": "wireframe",
+      "key": true,
+      "title": "Coraline and 3D-printed faces",
+      "who": "Henry Selick, LAIKA",
+      "where": "Hillsboro, Oregon, USA",
+      "country": "USA",
+      "text": "LAIKA's first feature was the first stop-motion feature shot in stereoscopic 3D. Its faces were designed on computers and 3D-printed, about 20,000 of them. 29 animators together made about 90 to 100 seconds of film a week.",
+      "why": "3D printing made replacement faces precise and very varied.",
+      "box": "faces",
+      "sources": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "2016",
+      "era": "printed",
+      "art": "puppet",
+      "key": true,
+      "title": "Kubo and a 5-metre skeleton",
+      "who": "Travis Knight, LAIKA",
+      "where": "Hillsboro, Oregon, USA",
+      "country": "USA",
+      "text": "For Kubo and the Two Strings, LAIKA built a giant skeleton puppet about 16 feet (almost 5 m) tall, moved by motion-control rigs. The studio printed about 64,000 faces for the film.",
+      "why": "LAIKA calls it the largest stop-motion puppet ever made.",
+      "box": "armature",
+      "sources": [
+        27,
+        26,
+        28
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2019",
+      "era": "printed",
+      "art": "trophy",
+      "title": "Missing Link and 102,000 faces",
+      "who": "Chris Butler, LAIKA",
+      "where": "Hillsboro, Oregon, USA",
+      "country": "USA",
+      "text": "LAIKA printed about 102,000 faces for Missing Link, enough to change a face every frame. The film won the Golden Globe for best animated feature.",
+      "why": "Printing had grown from thousands to over a hundred thousand faces in ten years.",
+      "box": "faces",
+      "sources": [
+        26,
+        29
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "2022",
+      "era": "printed",
+      "art": "trophy",
+      "title": "Guillermo del Toro's Pinocchio",
+      "who": "Guillermo del Toro and Mark Gustafson",
+      "where": "Portland, Oregon, USA and Guadalajara, Mexico",
+      "country": "USA",
+      "text": "A dark, hand-made retelling of Pinocchio with puppets built partly in Mexico. It won the Academy Award for best animated feature in 2023.",
+      "why": "It kept stop-motion features at the top of the craft.",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024",
+      "era": "printed",
+      "art": "clapper",
+      "title": "Four seconds a week",
+      "who": "Aardman",
+      "where": "Bristol, UK",
+      "country": "UK",
+      "text": "On Wallace & Gromit: Vengeance Most Fowl, up to 30 animators each made about 4.2 seconds of animation a week, shooting on digital stills cameras with Dragonframe frame-grab software, mostly on twos.",
+      "why": "The tools changed, but the pace of hand-made animation did not.",
+      "box": "frames",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "June 2025",
+      "era": "printed",
+      "art": "palette",
+      "title": "India's wool stop-motion wins at Annecy",
+      "who": "Suresh Eriyat, Studio Eeksaurus",
+      "where": "Mumbai, India",
+      "country": "India",
+      "text": "Desi Oon, a stop-motion film made from wool about India's native sheep wool, won a jury award in the commissioned films section at the Annecy animation festival. Over 50 artists worked on it for six months of filming.",
+      "why": "It showed Indian studios inventing new stop-motion materials.",
+      "box": "kinds",
+      "sources": [
+        32
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Stop-motion film (claimed, date disputed)",
+      "value": "c. 1897–98",
+      "who": "Blackton and Smith, The Humpty Dumpty Circus, USA"
+    },
+    {
+      "label": "Indian stop-motion film",
+      "value": "1915",
+      "who": "Dadasaheb Phalke, Agkadyanchi Mouj"
+    },
+    {
+      "label": "Oldest surviving animated feature (cut-out)",
+      "value": "1926",
+      "who": "Lotte Reiniger, Germany"
+    },
+    {
+      "label": "Puppet feature film (often cited)",
+      "value": "1930 (released 1937)",
+      "who": "Ladislas and Irène Starewicz, France"
+    },
+    {
+      "label": "Stop-motion winner of the animated feature Oscar",
+      "value": "2006",
+      "who": "The Curse of the Were-Rabbit, Aardman, UK"
+    },
+    {
+      "label": "Stop-motion feature shot in stereoscopic 3D",
+      "value": "2009",
+      "who": "Coraline, LAIKA, USA"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ladislas Starewicz",
+      "life": "1882 – 1965",
+      "role": "Puppet animator",
+      "from": "Russian Empire and France",
+      "note": "Turned insects and toys into actors, and made one of the first puppet features."
+    },
+    {
+      "name": "Dadasaheb Phalke",
+      "life": "1870 – 1944",
+      "role": "Film-maker",
+      "from": "India",
+      "note": "Father of Indian cinema, who also made India's first stop-motion film, of matchsticks."
+    },
+    {
+      "name": "Willis O'Brien",
+      "life": "1886 – 1962",
+      "role": "Special-effects animator",
+      "from": "USA",
+      "note": "Animated the dinosaurs of The Lost World and the ape of King Kong."
+    },
+    {
+      "name": "Lotte Reiniger",
+      "life": "1899 – 1981",
+      "role": "Silhouette animator",
+      "from": "Germany",
+      "note": "Cut her characters from black paper and made the oldest surviving animated feature."
+    },
+    {
+      "name": "Ray Harryhausen",
+      "life": "1920 – 2013",
+      "role": "Creature animator",
+      "from": "USA and UK",
+      "note": "Mixed puppets with live actors in films like Jason and the Argonauts."
+    },
+    {
+      "name": "Norman McLaren",
+      "life": "1914 – 1987",
+      "role": "Experimental animator",
+      "from": "Scotland and Canada",
+      "note": "Made pixilation famous with Neighbours."
+    },
+    {
+      "name": "Pramod Pati",
+      "life": "1932 – 1975",
+      "role": "Animator and director",
+      "from": "India",
+      "note": "Trained with Jiří Trnka and led animation at Films Division."
+    },
+    {
+      "name": "Caroline Leaf",
+      "life": "born 1946",
+      "role": "Animator",
+      "from": "USA and Canada",
+      "note": "Animated with sand and with paint on glass."
+    },
+    {
+      "name": "Nick Park",
+      "life": "born 1958",
+      "role": "Clay animator and director",
+      "from": "UK",
+      "note": "Created Wallace & Gromit at Aardman."
+    }
+  ],
+  "series": [
+    {
+      "id": "laikafaces",
+      "title": "Faces 3D-printed for each LAIKA feature",
+      "unit": "faces",
+      "log": false,
+      "after": "printed",
+      "caption": "The number of replacement faces LAIKA printed for each film grew fivefold in ten years (TCT Magazine).",
+      "points": [
+        {
+          "year": 2009,
+          "value": 20000,
+          "label": "Coraline: about 20,000 faces"
+        },
+        {
+          "year": 2012,
+          "value": 40000,
+          "label": "ParaNorman: about 40,000 faces"
+        },
+        {
+          "year": 2014,
+          "value": 56000,
+          "label": "The Boxtrolls: about 56,000 faces"
+        },
+        {
+          "year": 2016,
+          "value": 64000,
+          "label": "Kubo and the Two Strings: about 64,000 faces"
+        },
+        {
+          "year": 2019,
+          "value": 102000,
+          "label": "Missing Link: about 102,000 faces"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "A 90-minute film at 24 frames a second has 129,600 frames. Even on twos, that is 64,800 separate poses.",
+    "An Aardman animator on Vengeance Most Fowl averaged about 4.2 seconds of finished film a week.",
+    "Starewicz's first puppets were real stag beetles, their legs replaced with wire.",
+    "Kubo's giant skeleton puppet was about 16 feet tall and weighed about 400 pounds (180 kg).",
+    "By mixing face halves, Kubo's face could make an estimated 48 million expressions."
+  ],
+  "sources": [
+    {
+      "title": "Stop motion",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stop_motion"
+    },
+    {
+      "title": "The Humpty Dumpty Circus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Humpty_Dumpty_Circus"
+    },
+    {
+      "title": "Ladislas Starevich",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ladislas_Starevich"
+    },
+    {
+      "title": "The Cameraman's Revenge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Cameraman%27s_Revenge"
+    },
+    {
+      "title": "History of animation in India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_animation_in_India"
+    },
+    {
+      "title": "Willis H. O'Brien",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Willis_H._O%27Brien"
+    },
+    {
+      "title": "The Lost World (1925 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Lost_World_(1925_film)"
+    },
+    {
+      "title": "The Adventures of Prince Achmed",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Prince_Achmed"
+    },
+    {
+      "title": "The Tale of the Fox",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Tale_of_the_Fox"
+    },
+    {
+      "title": "King Kong (1933 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/King_Kong_(1933_film)"
+    },
+    {
+      "title": "The New Gulliver",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_New_Gulliver"
+    },
+    {
+      "title": "The Czech Year",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Czech_Year"
+    },
+    {
+      "title": "Neighbours (1952 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neighbours_(1952_film)"
+    },
+    {
+      "title": "Dynamation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dynamation"
+    },
+    {
+      "title": "Ray Harryhausen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ray_Harryhausen"
+    },
+    {
+      "title": "Gumby",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gumby"
+    },
+    {
+      "title": "Pramod Pati",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pramod_Pati"
+    },
+    {
+      "title": "Caroline Leaf",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Caroline_Leaf"
+    },
+    {
+      "title": "Aardman Animations",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aardman_Animations"
+    },
+    {
+      "title": "A Grand Day Out",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Grand_Day_Out"
+    },
+    {
+      "title": "Creature Comforts",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Creature_Comforts"
+    },
+    {
+      "title": "The Nightmare Before Christmas",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas"
+    },
+    {
+      "title": "Chicken Run",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chicken_Run"
+    },
+    {
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_The_Curse_of_the_Were-Rabbit"
+    },
+    {
+      "title": "Coraline (film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coraline_(film)"
+    },
+    {
+      "title": "Forever a Feisty Eleven Year Old, Coraline Turns Eight",
+      "publisher": "Focus Features",
+      "url": "https://www.focusfeatures.com/article/coraline_2017_eighth-anniversary"
+    },
+    {
+      "title": "Famous Faces: how LAIKA is pushing the boundaries of 3D printing for animation",
+      "publisher": "TCT Magazine",
+      "url": "https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/famous-faces-3d-printing-laika/"
+    },
+    {
+      "title": "Laika Was Crazy Enough To Animate A 16-Foot Tall Skeleton for 'Kubo and The Two Strings'",
+      "publisher": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/feature-film/laika-crazy-enough-animate-16-foot-tall-skeleton-kubo-two-strings-142544.html"
+    },
+    {
+      "title": "LAIKA's 3D Printed Puppets of 'Kubo and the Two Strings'",
+      "publisher": "Inverse",
+      "url": "https://www.inverse.com/article/19265-kubo-and-the-two-strings-laika-stop-motion-animation"
+    },
+    {
+      "title": "Missing Link (2019 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Missing_Link_(2019_film)"
+    },
+    {
+      "title": "Guillermo del Toro's Pinocchio",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guillermo_del_Toro%27s_Pinocchio"
+    },
+    {
+      "title": "Animation: Wallace & Gromit: Vengeance Most Fowl",
+      "publisher": "Post Magazine",
+      "url": "https://www.postmagazine.com/Publications/Post-Magazine/2024/November-December-2024/Animation-I-Wallace-Gromit-Vengeance-Most-Fowl-I.aspx"
+    },
+    {
+      "title": "Desi Oon: Where Wool Speaks Through Stop Motion",
+      "publisher": "Stop Motion Magazine",
+      "url": "https://stopmotionmagazine.com/desi-oon-where-wool-speaks-through-stop-motion/"
+    }
+  ]
+}

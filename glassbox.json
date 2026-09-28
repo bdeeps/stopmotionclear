@@ -1,0 +1,121 @@
+{
+  "slug": "stopmotionclear",
+  "box": 59,
+  "date": "2026-10-17",
+  "title": "StopMotionClear",
+  "question": "How does stop-motion animation work?",
+  "hook": "One minute of stop-motion is 1,440 photos, and a good animator makes about four seconds a week. Nudge a clay chai-wallah frame by frame, look inside his metal skeleton, make him talk with swapped mouths, ghost the last frames with onion skin, and plan your own film on a phone.",
+  "thumbText": "HOW STOP-MOTION WORKS",
+  "field": "film",
+  "minutes": 14,
+  "tags": [
+    "stop motion",
+    "stop-motion animation",
+    "claymation",
+    "clay animation",
+    "puppet animation",
+    "armature",
+    "replacement animation",
+    "lip sync",
+    "onion skin",
+    "frame rate",
+    "animating on twos",
+    "pixilation",
+    "cut-out animation",
+    "multiplane",
+    "sand animation",
+    "object animation",
+    "Aardman",
+    "LAIKA",
+    "Coraline",
+    "Ray Harryhausen",
+    "Dadasaheb Phalke",
+    "Indian animation",
+    "animation",
+    "film",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "One frame at a time",
+      "text": "An animator moves a puppet a few millimetres, steps away, and the camera takes one photo. Played back at 24 frames a second the photos become motion. Animating on twos (12 poses a second) still needs 720 poses a minute. An Aardman animator makes about 4.2 seconds of film a week; on Coraline, 29 animators made 90 to 100 seconds a week together."
+    },
+    {
+      "title": "Puppets and armatures",
+      "text": "Inside a puppet is a metal skeleton with ball-and-socket joints, tightened so they hold any pose. The skin is clay, cast silicone or foam latex. Tie-down screws or magnets hold the feet when the centre of mass is not over them, and rigs hold jumps, painted out later in VFX."
+    },
+    {
+      "title": "Faces that talk",
+      "text": "Animators match about eight mouth shapes to the voice, frame by frame. They either re-sculpt the clay each frame or swap in pre-made mouths (replacement animation). LAIKA 3D-printed about 20,000 faces for Coraline and 102,000 for Missing Link."
+    },
+    {
+      "title": "Onion skin and flicker",
+      "text": "Frame-grab software shows the live camera view with the last frames ghosted over it, so the animator can check spacing: a falling ball should speed up. Frames are shot minutes apart, so daylight, auto exposure or a bumped tripod make flicker. Blackout, lamps, manual exposure and a locked-off camera fix it."
+    },
+    {
+      "title": "Not only puppets",
+      "text": "Cut-out paper on multiplane glass (Lotte Reiniger, 1926), pixilated people (Norman McLaren's Neighbours, 1952), dancing matchsticks (Dadasaheb Phalke, 1915) and sand on a light box (Caroline Leaf, 1969) all use the same trick."
+    },
+    {
+      "title": "Make your own",
+      "text": "A phone on a tripod, a lamp and some clay are enough. A 5-second clip at 12 fps is 60 photos. Tape the tripod down, keep your hands off the phone, lock exposure, shut the curtains and stick the puppet down."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Frame",
+      "def": "One photo in the film; cinema shows 24 a second."
+    },
+    {
+      "term": "On twos",
+      "def": "Holding each pose for two frames, so there are 12 new poses a second at 24 fps."
+    },
+    {
+      "term": "Armature",
+      "def": "The posable metal skeleton inside a puppet, with stiff ball-and-socket joints."
+    },
+    {
+      "term": "Tie-down",
+      "def": "A screw or magnet that locks a puppet's foot to the set."
+    },
+    {
+      "term": "Replacement animation",
+      "def": "Swapping pre-made pieces, such as mouths or faces, between frames."
+    },
+    {
+      "term": "Lip sync",
+      "def": "Matching mouth shapes to the sounds of the voice, frame by frame."
+    },
+    {
+      "term": "Onion skin",
+      "def": "Faded copies of earlier frames shown over the camera's live view."
+    },
+    {
+      "term": "Spacing",
+      "def": "How far something moves from one frame to the next."
+    },
+    {
+      "term": "Pixilation",
+      "def": "Stop-motion animation of real people, who pose for every frame."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "stopmotionclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
